@@ -1,0 +1,90 @@
+@import url('https://fonts.googleapis.com/css?family=News+Cycle&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Livvic&display=swap');
+
+.menu-font {
+  font-family: 'News Cycle', sans-serif;
+}
+
+.logo-loc {
+  margin-top: 30px;
+  margin-left: 100px;
+}
+
+.menu-select {
+  float:right;
+  width: 500px;
+  display: grid;
+  grid-template-columns: 70px 70px 70px 70px 70px;
+  margin-top: -70px;
+}
+
+.main-title {
+  font-family: 'Livvic', sans-serif;
+  font-size: 100px;
+  position:absolute;
+  top:50%; left:50%;
+  margin-top:-200px; margin-left:-400px;
+  width:1000px; height:200px;
+}
+
+
+.mini-title {
+  font-family: 'Livvic', sans-serif;
+  position:absolute;
+  top:50%; left:50%;
+  margin-top:-40px; margin-left:-80px;
+  width:1000px; height:200px;
+}
+
+.image-div {
+  display: grid;
+  width: 900px;
+  grid-template-columns: 575px 575px;
+  grid-template-rows:375px 100px;
+  margin-top: 400px;
+  margin-left: 150px;
+}
+
+.end-div {
+  font-family: 'Livvic', sans-serif;
+  font-size: 15px;
+  position:absolute;
+  top:50%; left:50%;
+  margin-top:1200px; margin-left:-150px;
+  width:1000px; height:200px;
+}
+
+.end-div .big-title {
+  font-size: 50px;
+  margin-left: -150px;
+  margin-bottom: 80px;
+}
+#About {
+
+}
+
+#Team {
+
+}
+
+#Work {
+
+}
+
+#Blog {
+
+}
+
+#Contact {
+
+}
+
+#iWatch {
+  color:red;
+  font-style: bold;
+  margin-top: 20px;
+}
+
+#Cup {
+
+}
