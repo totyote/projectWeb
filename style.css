@@ -31,17 +31,18 @@
 .mini-title {
   font-family: 'Livvic', sans-serif;
   position:absolute;
-  top:50; left:50%;
+  left:50%;
   margin-top:300px; margin-left:-80px;
 }
 
 .image-div {
   display: grid;
   grid-template-columns: 575px 575px;
-  grid-template-rows:375px 100px;
+  grid-template-rows:375px;
   margin-top: 450px;
+  margin-left: -575px;
   position:absolute;
-  left:10%;
+  left:50%;
 }
 
 .end-div {
